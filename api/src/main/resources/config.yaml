@@ -1,0 +1,12 @@
+kumuluzee:
+  name: priporocilni-sistem
+  version: 1.0.0
+  env:
+    name: dev
+  server:
+    http:
+      port: 8081
+  health:
+    checks:
+      disk-space-health-check:
+        threshold: 100000000
