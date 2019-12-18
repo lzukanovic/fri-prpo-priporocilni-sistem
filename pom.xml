@@ -7,7 +7,7 @@
     <groupId>si.fri.prpo.nakupovalni-seznami.priporocila</groupId>
     <artifactId>priporocilni-sistem</artifactId>
     <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
+    <version>RELEASE-0.1</version>
     <modules>
         <module>api</module>
     </modules>
